@@ -11,10 +11,10 @@ Shopify is an easy-to-use e-commerce solution that allows anyone to create and m
 ## Initialize the pipeline
 
 ```bash
-dlt init shopify_dlt bigquery
+dlt init shopify_dlt duckdb
 ```
 
-Here, we chose BigQuery as the destination. Alternatively, you can also choose redshift, duckdb, or any of the other [destinations](https://dlthub.com/docs/dlt-ecosystem/destinations/).
+Here, we chose Duckdb as the destination. Alternatively, you can also choose redshift, duckdb, or any of the other [destinations](https://dlthub.com/docs/dlt-ecosystem/destinations/).
 
 ## Grab credentials
 
