@@ -1,0 +1,6 @@
+[sources.shopify_dlt]
+shop_url = "https://sam-cook-ltd.myshopify.com/" # please set me up!
+organization_id = 3920015 # please set me up!
+
+[runtime]
+dlthub_telemetry = true
